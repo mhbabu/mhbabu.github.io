@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84ef12ba-d721-48d5-abe5-a00e3360e0e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="84ef12ba-d721-48d5-abe5-a00e3360e0e1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="599" column="59" lean-forward="true" selection-start-line="599" selection-start-column="59" selection-end-line="599" selection-end-column="59" />
+            <state relative-caret-position="326">
+              <caret line="607" column="54" lean-forward="true" selection-start-line="607" selection-start-column="54" selection-end-line="607" selection-end-column="54" />
               <folding>
                 <element signature="n#section#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -74,7 +72,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ReadyToGo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -102,16 +100,15 @@
       <updated>1557213109940</updated>
       <workItem from="1557213112724" duration="979000" />
       <workItem from="1557222515687" duration="625000" />
-      <workItem from="1557269197901" duration="4642000" />
+      <workItem from="1557269197901" duration="4856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6246000" />
+    <option name="totallyTimeSpent" value="6460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17700455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -172,8 +169,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="599" column="59" lean-forward="true" selection-start-line="599" selection-start-column="59" selection-end-line="599" selection-end-column="59" />
+        <state relative-caret-position="326">
+          <caret line="607" column="54" lean-forward="true" selection-start-line="607" selection-start-column="54" selection-end-line="607" selection-end-column="54" />
           <folding>
             <element signature="n#section#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
